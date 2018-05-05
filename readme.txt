@@ -6,4 +6,4 @@ hello.
 hill.
 123.
 add a line.
-master.
+Creating a new branch is quick and simple.
