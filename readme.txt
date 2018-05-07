@@ -7,5 +7,10 @@ hill.
 123.
 add a line.
 Creating a new branch is quick and simple.
+<<<<<<< HEAD
 dev.
 git dev.
+=======
+dev1.
+>>>>>>> dev
+123
